@@ -19,6 +19,7 @@ public class Main {
         System.out.println("Master changes");
 
         System.out.println("From B7");
+        System.out.println("from B7_2");
 
     }
 }
