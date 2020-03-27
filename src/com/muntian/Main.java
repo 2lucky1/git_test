@@ -14,7 +14,5 @@ public class Main {
 
         System.out.println("Master cherry pick");
         System.out.println("Master cherry pick 1 change");
-
-        System.out.println("M6_rev");
     }
 }
