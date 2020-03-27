@@ -12,6 +12,10 @@ public class Main {
         System.out.println("Changes from GitHub");
         System.out.println("Second update from GitHub");
         System.out.println("Third update from GitHub");
+
         System.out.println("conflicts between b1 and origin");
+
+        System.out.println("Remote conflicts in Main");
+
     }
 }
