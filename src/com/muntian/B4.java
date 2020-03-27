@@ -6,5 +6,6 @@ public class B4 {
         System.out.println("M_change2");
         System.out.println("M_change4");
         System.out.println("B5_ch1");
+        System.out.println("B5_ch2");
     }
 }
