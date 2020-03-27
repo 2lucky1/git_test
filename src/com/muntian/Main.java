@@ -16,6 +16,7 @@ public class Main {
         System.out.println("conflicts between b1 and origin");
 
         System.out.println("Remote conflicts in Main");
+        System.out.println("B90");
 
     }
 }
