@@ -9,9 +9,6 @@ public class B4 {
         System.out.println("M_ch_5");
         System.out.println("M_ch_6");
 
-        System.out.println("B5_ch1");
-        System.out.println("B5_ch2");
-
         System.out.println("Common_1");
         System.out.println("Common_2");
     }
