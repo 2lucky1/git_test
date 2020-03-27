@@ -10,5 +10,6 @@ public class Main {
         System.out.println("b3");
         System.out.println("b1 changes");
         System.out.println("Changes from GitHub");
+        System.out.println("Second update from GitHub");
     }
 }
