@@ -13,5 +13,6 @@ public class B4 {
         System.out.println("B5_ch2");
 
         System.out.println("Common_1");
+        System.out.println("Common_2");
     }
 }
